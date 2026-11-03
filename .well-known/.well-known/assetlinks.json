@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.simplesidescroller.twa",
+        "sha256_cert_fingerprints": ["F3:07:14:A1:11:52:DC:96:05:24:EE:A2:48:73:D6:28:15:78:BB:40:38:81:DB:86:50:BF:86:9F:36:96:E0:05"]
+      }
+    }]
