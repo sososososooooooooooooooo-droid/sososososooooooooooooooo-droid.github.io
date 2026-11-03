@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "app.netlify.simplesidescroller.twa",
-        "sha256_cert_fingerprints": ["F3:07:14:A1:11:52:DC:96:05:24:EE:A2:48:73:D6:28:15:78:BB:40:38:81:DB:86:50:BF:86:9F:36:96:E0:05"]
+        "package_name": "io.github.sososososooooooooooooooo_droid.twa",
+        "sha256_cert_fingerprints": ["7D:88:DD:F3:17:6C:9C:E8:86:8E:FB:92:FA:38:54:A8:7C:FE:E2:A9:2E:F7:CF:62:A1:66:7E:AA:8D:B6:84:26"]
       }
     }]
